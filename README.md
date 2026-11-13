@@ -9,7 +9,7 @@
 | Что | Ссылка | Зачем |
 |---|---|---|
 | 📅 Журнал игр | [Google Sheets](https://docs.google.com/spreadsheets/d/1TOosPMESbq8_GhqsYoXEDMzK4WL6nbEpNcPu5szGM18/edit?gid=0#gid=0) | Отмечаем, во что и когда играли на весёлых вечерах и в больших играх (этот документ в доступе чтения, при желании вы можете скопировать и вести у себя) |
-| 💡 Идеи | [Google Sheets]([ССЫЛКА_НА_ИДЕ](https://docs.google.com/spreadsheets/d/1Sqa121V5uI6Osnw_aA5YfJvBvl1xmKxas7ypMUvKRfw/edit?gid=1684661617#gid=1684661617) | Кидаем рилсы и ссылки с новыми идеями для весёлых вечеров и больших игр |
+| 💡 Идеи | [Google Sheets]([ССЫЛКА_НА_ИДЕИ](https://docs.google.com/spreadsheets/d/1Sqa121V5uI6Osnw_aA5YfJvBvl1xmKxas7ypMUvKRfw/edit?gid=1684661617#gid=1684661617) | Кидаем рилсы и ссылки с новыми идеями для весёлых вечеров и больших игр |
 
 **Журнал игр.** В таблице две вкладки:
 - **Весёлые вечера**: дата, игра, кто вёл, как прошло.
